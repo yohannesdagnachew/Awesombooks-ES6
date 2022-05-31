@@ -1,6 +1,7 @@
 import times from './date.js';
 import Info from './info.js';
 import { list, awesomBook, createBook } from './creatbook.js';
+
 const add = document.getElementById('add-button');
 
 add.addEventListener('click', () => {
@@ -21,7 +22,7 @@ list.addEventListener('click', (e) => {
   if (e.target.classList.contains('remove')) {
     e.target.parentElement.remove();
     const newAwesemBook = awesomBook.filter(
-      (ele) => ele.Title !== e.target.parentElement.children[0].innerText
+      (ele) => ele.Title !== e.target.parentElement.children[0].innerText,
     );
 
     awesomBook.splice(awesomBook.indexOf(newAwesemBook), 1);
