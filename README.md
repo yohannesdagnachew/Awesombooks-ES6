@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://yohannesdagnachew.github.io/Awsome-Book/)
+[Live Demo Link](https://yohannesdagnachew.github.io/Awesombooks-ES6/)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Usage
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/yohannesdagnachew/Awsome-Book/issues).
+Feel free to check the [issues page](https://github.com/yohannesdagnachew/Awesombooks-ES6/issues).
 
 ## Show your support
 
